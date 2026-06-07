@@ -2,6 +2,14 @@
 
 An end-to-end analytics dashboard built with **Python, Dash, Plotly, Pandas, and Scikit-Learn** to analyze customer behavior, retention, revenue, and churn in an e-commerce environment.
 
+The dashboard helps answer critical business questions such as:
+
+.Where are users dropping off in the purchase journey?
+.Which acquisition channels drive the highest conversions?
+.How well are users retained over time?
+.Which customers are most valuable?
+.Which customers are likely to churn?
+.How are revenue and order metrics trending?
 ##  Features
 
 * **Conversion Funnel Analysis** – Track user drop-off from visit to purchase with acquisition channel breakdowns.
@@ -69,6 +77,18 @@ http://127.0.0.1:8050
 * Marketing attribution analysis
 * Cloud deployment and real-time data pipelines
 
+## Learning Outcomes
 
+This project demonstrates:
+
+*Product Analytics
+*Growth Analytics
+*Funnel Analysis
+*Cohort Analysis
+*Customer Segmentation
+*Machine Learning for Churn Prediction
+*Dashboard Development
+*Data Visualization
+*Business KPI Monitoring
 
 If you found this project useful, consider starring the repository.
